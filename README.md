@@ -1,21 +1,20 @@
+
 <div align="center">
 
-<!-- Rotating Cube Animation (GitHub Safe) -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Rofpalys Logo" width="100" />
-<br><br>
+<!-- ROTATING CUBE BACKGROUND -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="Rotating Cube Background">
 
-<!-- Aesthetic Loading Cube -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="Rotating Cube">
-</div>
+<!-- MAIN TITLE -->
+<h1>🎵 Rofpalys V1.2</h1>
+<p><b>The Ultimate AI-Powered, Modular Music Player for Termux.</b></p>
 
-# 🎵 Rofpalys V1.2
-**The Ultimate AI-Powered, Modular Music Player for Termux.**
-
+<!-- BADGES -->
 [![Python](https://img.shields.io/badge/Python-3.14+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Termux](https://img.shields.io/badge/Termux-Android-black.svg?style=for-the-badge&logo=android&logoColor=green)](https://termux.dev)
 [![License](https://img.shields.io/badge/License-Private-red.svg?style=for-the-badge)]()
 [![Architecture](https://img.shields.io/badge/Architecture-Modular-purple.svg?style=for-the-badge)]()
+
+<br>
 
 *Built with 40+ modules, engineered for low-end devices (4GB RAM), and powered by the CyroKayAI engine.*
 
@@ -117,9 +116,21 @@ rofpalys gui
 
 Rofpalys is a solo project developed with passion (and a lot of late nights) by XinHaiLinqkn under the ANROFTY ecosystem.
 
-· 📧 Email: xinhailinanrofty@gmail.com
-· 📱 WhatsApp: +62 858-0080-9362
-· 🐦 Twitter / X: @XinHaiLinqkn
+<div align="center">
+
+<!-- Clickable Contact Badges -->
+
+<a href="mailto:xinhailinanrofty@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://wa.me/6285800809362">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+<a href="https://twitter.com/XinHaiLinqkn">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X">
+</a>
+
+</div>
 
 <br>
 <div align="center">
