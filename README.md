@@ -93,6 +93,10 @@ This command will copy the core files to usr/lib and the launcher to usr/bin.
 ```bash
 python ~/rofpalys.py install
 ```
+If it fails to use 
+```bash
+python ./rofpalys.py install
+```
 
 4. Install Lyric Providers
 
@@ -101,7 +105,6 @@ Rofpalys uses multiple databases to find the perfect synced lyrics.
 ```bash
 rofpalys lyrics providers install
 ```
-
 5. Run the Application
 
 You can now launch Rofpalys from anywhere in your terminal!
